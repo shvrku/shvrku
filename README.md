@@ -1,4 +1,4 @@
-# [shvrku]
+# shvrku
 
 > "What do i do? Can't tell you, signed an NDA to myself" 
 
