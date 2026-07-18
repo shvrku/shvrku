@@ -9,4 +9,4 @@
 ---
 
 ### 📡 Transmission
-*   [shvrku.vercel.app](#)
+*   [shvrku.vercel.app](https://shvrku.vercel.app)
